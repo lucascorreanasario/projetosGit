@@ -1,3 +1,3 @@
 # projetosGit
 
-Unicamento criado para treinar o git 
+Unicamente criado para treinar o git 
